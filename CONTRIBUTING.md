@@ -1,3 +1,5 @@
+This is a local repo
+
 # Contributing
 
 Please feel free to contribute to the quality of this content by submitting PR's for improvements to code snippets, explanations, etc. If there's any doubt or if you think that a word/phrase is used confusingly, **before submitting a PR, open an issue to ask about it.**
